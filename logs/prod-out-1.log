@@ -1,0 +1,64 @@
+2026-09-25T10:28:15: [dotenv@17.2.4] injecting env (29) from .env -- tip: ⚙️  override existing env vars with { override: true }
+2026-09-25T10:28:15: [dotenv@17.2.4] injecting env (0) from .env -- tip: ⚙️  suppress all logs with { quiet: true }
+2026-09-25T10:28:15: /home/kamlesh/presenza-api/src/utils
+2026-09-25T10:28:15: Looking for firebase.json at: /home/kamlesh/presenza-api/firebase.json
+2026-09-25T10:28:15: File exists? true
+2026-09-25T10:28:15: Service account loaded successfully {
+2026-09-25T10:28:15:   type: 'service_account',
+2026-09-25T10:28:15:   project_id: 'presenza-7bbc8',
+2026-09-25T10:28:15:   private_key_id: 'ab460db96c8c5f0398b8038d34681fc674ea4a7f',
+2026-09-25T10:28:15:   private_key: '-----BEGIN PRIVATE KEY-----\n' +
+2026-09-25T10:28:15:     'MIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCuQBx54b3d0PN3\n' +
+2026-09-25T10:28:15:     '5hmtnTwFQnzM/SMa1QeExJ7WH+8A1KZgwLe5CDmy/ykvtGfsv96g3ZeKKqUPqUAe\n' +
+2026-09-25T10:28:15:     'bAZW2xmxPtNegJTqeUJsj2mILqXm9h1HUI1A9enWLK+8tnJegR5ccEXxyktYeetb\n' +
+2026-09-25T10:28:15:     'y6G4lIPUAGRfkUxHqZnaL+E5/SqwzlLMQu4rOZeGk2bfNL7sQmHMVCeWxMmtwkSs\n' +
+2026-09-25T10:28:15:     'S0LQ0Iil4M5+zCeaYdeV9/ioEM5YjNxC3wXpTniSVjjD3w2nndugfca9uWG+kYCq\n' +
+2026-09-25T10:28:15:     'UG7BozX6BduXOR/I47T0rO0vsMJeE8ZBHxwsXYK4RWkJHKu2sctqqt5gc2XaQwLd\n' +
+2026-09-25T10:28:15:     'KgmbWnMDAgMBAAECggEABr12HITN2lGlyUJ+RcfqNW3f8/HqtLP+yXTti+zKSubu\n' +
+2026-09-25T10:28:15:     '1Jk/wgl+ad0S08SPrImza9eGcBK8NcHfOA4HpL5u3PtII8SnffZYymg1tc3QHwHw\n' +
+2026-09-25T10:28:15:     'Gf0UqamZdO5fkdYg0GUALqUtH3Aqv+5fWzqiM8iS3NVzDHtLTw5RZC4r8RlI2HPi\n' +
+2026-09-25T10:28:15:     'SfGxTXqNDpLl7Aa7ib9cjgFv86P551FOp8ep/UdOdk+uCeq9bf5HQRqKIPppx6fm\n' +
+2026-09-25T10:28:15:     '6lW4z8Jjn8bkjV8utaElHwD05OME7e1tQZoFZqjSM5uUv2Hukz6P1+s4i/Tga4Da\n' +
+2026-09-25T10:28:15:     'PCk+WdlaEosBHwpxKkrxULmZWXVyF4h4SXVv5hV2QQKBgQDYTfwfd361ULKPFzgK\n' +
+2026-09-25T10:28:15:     '9T5inOBsKVFZNmUHhDQJxZcmkNFK5Gsj7hM7CyfJCU6EFoL8CI5v5F63zbDPWUhj\n' +
+2026-09-25T10:28:15:     'kOccjZpnMLo5YeC7GySkZom8V6UisUikwVAq3PNInnjCxiT/tb4AT+7ilcz0Zb16\n' +
+2026-09-25T10:28:15:     'LUugAapPW53i7vMfLQfnB5RlYwKBgQDOOmpuPjJlro+zbw2clq9XAZrrSYHTTVUp\n' +
+2026-09-25T10:28:15:     'qE+Yrv5u8jS+HWFiH0JEJAe0dzf2omlZ5GmDyw0Z7BRcxDCo/zLiM7NqRWf/+RUI\n' +
+2026-09-25T10:28:15:     'TupzvfFL8foVm3GlbQ25TkBPuI+D8rEZc+b2/eN5d7HzXwxdMIU2P873iKRGiBY+\n' +
+2026-09-25T10:28:15:     'lTKpI6R94QKBgC1l+MO19c8iV8e2jNmn7WcPG/83kM5Tn1K7iZx/byD2Bidc16vb\n' +
+2026-09-25T10:28:15:     '3QdoaPpFzMfmXal+Nj7/xG15a2GpkIrtL8SLZ9u+m2dNxrgek0s6BjCUiKFGakPC\n' +
+2026-09-25T10:28:15:     'GwxUAW+9awUeR0ewIme4XyAJZtHoxKLu/M9hahhr1zB5DGf/sIfpzFiXAoGATkM+\n' +
+2026-09-25T10:28:15:     '9r1l1M7NPBQt/zn0KrmyOA56VV0or5lvM4tdhW8ncuqldV5VgJSH1AXWWCPEhVe4\n' +
+2026-09-25T10:28:15:     'b0qUmzzLcXUG3muSvONP+EmEsVCumauRMAFqXB7lgGOwWk4rgiJfJ6Hr3PAyI22n\n' +
+2026-09-25T10:28:15:     'vh4VwJgbETgF8iuisja+7ZOOfDHS90cZpbSgDSECgYBeuqWGNajSHvXnx/nWmzp/\n' +
+2026-09-25T10:28:15:     'KQowvnZEdk+52AfjUPZPAf32IPYWl+4sAV7JTabxkC20dYvHkXCoFsd+zQlS5bZm\n' +
+2026-09-25T10:28:15:     'CowH/SlO9sPbqKKKk6G5zPvCJAZbLALem/DZtWmnRo0lwta9KoKLdW3gTIqlOXkF\n' +
+2026-09-25T10:28:15:     'CPvovPz8PaZmbB4j1hoS5w==\n' +
+2026-09-25T10:28:15:     '-----END PRIVATE KEY-----\n',
+2026-09-25T10:28:15:   client_email: 'firebase-adminsdk-fbsvc@presenza-7bbc8.iam.gserviceaccount.com',
+2026-09-25T10:28:15:   client_id: '109698922711996228525',
+2026-09-25T10:28:15:   auth_uri: 'https://accounts.google.com/o/oauth2/auth',
+2026-09-25T10:28:15:   token_uri: 'https://oauth2.googleapis.com/token',
+2026-09-25T10:28:15:   auth_provider_x509_cert_url: 'https://www.googleapis.com/oauth2/v1/certs',
+2026-09-25T10:28:15:   client_x509_cert_url: 'https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-fbsvc%40presenza-7bbc8.iam.gserviceaccount.com',
+2026-09-25T10:28:15:   universe_domain: 'googleapis.com'
+2026-09-25T10:28:15: }
+2026-09-25T10:28:15: Has cert? (private_key exists): true
+2026-09-25T10:28:15: Firebase initialized successfully
+2026-09-25T10:28:15: [dotenv@17.2.4] injecting env (0) from .env.prod -- tip: 📡 add observability to secrets: https://dotenvx.com/ops
+2026-09-25T10:28:15: info: Starting Presenza API
+2026-09-25T10:28:15: info: Environment: production
+2026-09-25T10:28:15: info: Port: 4000
+2026-09-25T10:28:16: info: Connected to MongoDB successfully | Environment: production
+2026-09-25T10:28:16: info: Presenza API listening on port 4000 | Environment: production
+2026-09-25T10:28:16: ✅ Attendance cron jobs initialized with timezone: Asia/Kolkata
+2026-09-25T10:28:16: 📋 Schedule Summary:
+2026-09-25T10:28:16:     - Auto Punch Out: 11:30 PM IST
+2026-09-25T10:28:16:     - Punch In Reminders: 9:25 AM, 9:30 AM, 9:35 AM IST
+2026-09-25T10:28:16:     - Punch Out Reminders: 6:25 PM, 6:30 PM, 6:35 PM IST
+2026-09-25T10:28:16:     
+2026-09-25T10:28:16: info: Cron jobs initialized | Environment: production
+2026-09-25T10:28:17: ✅ Email service ready
+2026-09-25T11:22:48: info: SIGTERM received. Starting graceful shutdown...
+2026-09-25T11:22:48: info: HTTP server closed
+2026-09-25T11:22:48: info: MongoDB connection closed

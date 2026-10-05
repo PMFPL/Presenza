@@ -1,0 +1,9 @@
+2026-09-25T10:28:15: (node:347005) [MONGOOSE] Warning: Duplicate schema index on {"stateName":1} found. This is often due to declaring an index using both "index: true" and "schema.index()". Please remove the duplicate index definition.
+2026-09-25T10:28:15: (Use `node --trace-warnings ...` to show where the warning was created)
+2026-09-25T10:28:15: (node:347005) Warning: Accessing non-existent property 'path' of module exports inside circular dependency
+2026-09-25T10:28:15: (node:347005) Warning: Accessing non-existent property 'path' of module exports inside circular dependency
+2026-09-25T10:28:15: (node:347005) NOTE: The AWS SDK for JavaScript (v2) has reached end-of-support.
+2026-09-25T10:28:15: It will no longer receive updates or releases.
+2026-09-25T10:28:15: 
+2026-09-25T10:28:15: Please migrate your code to use AWS SDK for JavaScript (v3).
+2026-09-25T10:28:15: For more information, check the blog post at https://a.co/cUPnyil
